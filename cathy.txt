@@ -1,1 +1,3 @@
 checking for fetch command
+done again for fetch to get the clarity
+
